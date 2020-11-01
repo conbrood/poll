@@ -1,3 +1,9 @@
+  
+//The purpose of this block of code is, if the while statement is true the code will be executed. If the while statement is not true, it will not run. This code is a very
+basic example of a while loop, again if its true the code will run thru and if the while statement is false the loop will not run.
+
+
+
 #!/bin/bash
 
 counter=2
